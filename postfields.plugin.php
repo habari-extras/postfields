@@ -1,5 +1,5 @@
 <?php
-
+namespace Habari;
 /**
 * Post Fields - A plugin to display additional fields on the publish page
 * @package postfields
