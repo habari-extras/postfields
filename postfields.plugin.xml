@@ -6,6 +6,7 @@
 	<author url="http://habariproject.org">The Habari Community</author>
 	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license> 
 	<description><![CDATA[Display additional fields on the post page in the tabs to let authors add additional metadata to their posts.]]></description>
+	<guid>34C6548C-F962-4861-9159-E7098DE4206C</guid>
 	<copyright>2008</copyright>
 	
 			<help> 
